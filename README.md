@@ -1,1 +1,5 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kashparty&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/kashparty">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kashparty&theme=nord&count_private=true&show_icons=true" alt="KashParty's Stats" >
+  </a>
+<p/>
